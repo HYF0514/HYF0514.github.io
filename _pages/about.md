@@ -1,7 +1,9 @@
 ---
 permalink: /
-title: "Biography"
+title: "Homepage"
 author_profile: true
+header:
+  title: "Biography"
 redirect_from: 
   - /about/
   - /about.html
