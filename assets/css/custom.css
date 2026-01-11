@@ -1,5 +1,5 @@
 @media (min-width: 57.8125em) {
-.page {
-padding-right: 8%; /* 调整为更小的值，比如8%或5%，原是约17%，这会让右边空隙减小，内容向右扩展 */
-}
+  .page {
+  padding-right: 5%; 
+  }
 }
