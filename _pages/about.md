@@ -16,5 +16,5 @@ received the B.S. degree from the University of Electronic Science and Technolog
 
 Publications
 ============
-* **Yunfan Hu**, Zengxiang Wang, Ye Xia, Hu Xiong, Liming Fang, Changgen Peng, Abubaker Wahaballa, Zhen Qin, and Zhiguang Qin. Blockchain-Oriented Certificateless Threshold Signature with IdentifiableAbort for Federated Learning in Digital Twin-Assisted IoV, IEEE Transactions on Intelligent Transportation Systems, 2025.
-* **Yunfan Hu**, Hu Xiong, Liming Fang, Changgen Peng, Zhen Qin, Zhiguang Qin. A Survey of Distributed Cryptography Suitable for Blockchain. Chinese Journal of Computers, 2025, 48(7): 1670-1695.
+* **Yunfan Hu**, Zengxiang Wang, Ye Xia, Hu Xiong, Liming Fang, Changgen Peng, Abubaker Wahaballa, Zhen Qin, and Zhiguang Qin. Blockchain-Oriented Certificateless Threshold Signature with Identifiable Abort for Federated Learning in Digital Twin-Assisted IoV, IEEE Transactions on Intelligent Transportation Systems, 2025.
+* **Yunfan Hu**, Hu Xiong, Liming Fang, Changgen Peng, Zhen Qin, Zhiguang Qin. A Survey of Distributed Cryptography Suitable for Blockchain. Chinese Journal of Computers, 2025, 48(7): 1670-1695. (in Chinese)
