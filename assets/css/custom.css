@@ -1,23 +1,5 @@
----
----
-
-/* 引入你当前使用的主题样式 */
-@import "{{ site.theme }}";
-
-/* 针对不同主题的常见类名进行宽度调整 */
-/* 你可能需要根据实际情况保留其中一个生效的 */
-
-/* 如果是 Minimal, Architect, Slate 等主题，通常使用 .wrapper 或 section */
-.wrapper {
-  max-width: 1200px !important; /* 将宽度增加到 1200px 或更大 */
-  margin-right: 20px; /* 稍微留一点右边距 */
+@media (min-width: 57.8125em) {
+.page {
+padding-right: 8%; /* 调整为更小的值，比如8%或5%，原是约17%，这会让右边空隙减小，内容向右扩展 */
 }
-
-section {
-  max-width: 1200px !important;
-}
-
-/* 某些主题使用 .container 或 .main-content */
-.container, .main-content {
-  max-width: 90% !important; /* 或者使用百分比让它自适应 */
 }
