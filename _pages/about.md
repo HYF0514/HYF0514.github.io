@@ -10,7 +10,7 @@ redirect_from:
 Biography
 =========
 **Yunfan Hu**
-received the B.S. degree from the University of Electronic Science and Technology of China (UESTC) in 2022, where he is currently pursuing the Ph.D. degree with the School of Information and Software Engineering. His research interests include **AI Agent Security**, **information security**, **privacy computing** and **public key cryptography**.
+received the B.S. degree from the University of Electronic Science and Technology of China (UESTC) in 2022, where he is currently pursuing the Ph.D. degree with the School of Information and Software Engineering. His research interests include **AI agent security**, **information security**, **privacy computing** and **public key cryptography**.
 
 <br>
 
